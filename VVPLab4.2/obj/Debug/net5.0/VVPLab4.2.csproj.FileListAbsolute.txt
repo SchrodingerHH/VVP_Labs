@@ -1,0 +1,15 @@
+C:\Users\lrgcr\Documents\GitHub\VVPLabs\VVPLab4.3\bin\Debug\net5.0\VVPLab4.2.exe
+C:\Users\lrgcr\Documents\GitHub\VVPLabs\VVPLab4.3\bin\Debug\net5.0\VVPLab4.2.deps.json
+C:\Users\lrgcr\Documents\GitHub\VVPLabs\VVPLab4.3\bin\Debug\net5.0\VVPLab4.2.runtimeconfig.json
+C:\Users\lrgcr\Documents\GitHub\VVPLabs\VVPLab4.3\bin\Debug\net5.0\VVPLab4.2.runtimeconfig.dev.json
+C:\Users\lrgcr\Documents\GitHub\VVPLabs\VVPLab4.3\bin\Debug\net5.0\VVPLab4.2.dll
+C:\Users\lrgcr\Documents\GitHub\VVPLabs\VVPLab4.3\bin\Debug\net5.0\ref\VVPLab4.2.dll
+C:\Users\lrgcr\Documents\GitHub\VVPLabs\VVPLab4.3\bin\Debug\net5.0\VVPLab4.2.pdb
+C:\Users\lrgcr\Documents\GitHub\VVPLabs\VVPLab4.3\obj\Debug\net5.0\VVPLab4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lrgcr\Documents\GitHub\VVPLabs\VVPLab4.3\obj\Debug\net5.0\VVPLab4.2.AssemblyInfoInputs.cache
+C:\Users\lrgcr\Documents\GitHub\VVPLabs\VVPLab4.3\obj\Debug\net5.0\VVPLab4.2.AssemblyInfo.cs
+C:\Users\lrgcr\Documents\GitHub\VVPLabs\VVPLab4.3\obj\Debug\net5.0\VVPLab4.2.csproj.CoreCompileInputs.cache
+C:\Users\lrgcr\Documents\GitHub\VVPLabs\VVPLab4.3\obj\Debug\net5.0\VVPLab4.2.dll
+C:\Users\lrgcr\Documents\GitHub\VVPLabs\VVPLab4.3\obj\Debug\net5.0\ref\VVPLab4.2.dll
+C:\Users\lrgcr\Documents\GitHub\VVPLabs\VVPLab4.3\obj\Debug\net5.0\VVPLab4.2.pdb
+C:\Users\lrgcr\Documents\GitHub\VVPLabs\VVPLab4.3\obj\Debug\net5.0\VVPLab4.2.genruntimeconfig.cache
