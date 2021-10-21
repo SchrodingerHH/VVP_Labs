@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace VVPLab1
+namespace VVPLab4
 {
     class Program
     {
