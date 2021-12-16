@@ -1,0 +1,16 @@
+C:\Users\lrgcr\OneDrive\Документы\Git repos\VVP_Labs\VVPLab10.7\bin\Debug\net5.0\VVPLab10.7.exe
+C:\Users\lrgcr\OneDrive\Документы\Git repos\VVP_Labs\VVPLab10.7\bin\Debug\net5.0\VVPLab10.7.deps.json
+C:\Users\lrgcr\OneDrive\Документы\Git repos\VVP_Labs\VVPLab10.7\bin\Debug\net5.0\VVPLab10.7.runtimeconfig.json
+C:\Users\lrgcr\OneDrive\Документы\Git repos\VVP_Labs\VVPLab10.7\bin\Debug\net5.0\VVPLab10.7.runtimeconfig.dev.json
+C:\Users\lrgcr\OneDrive\Документы\Git repos\VVP_Labs\VVPLab10.7\bin\Debug\net5.0\VVPLab10.7.dll
+C:\Users\lrgcr\OneDrive\Документы\Git repos\VVP_Labs\VVPLab10.7\bin\Debug\net5.0\ref\VVPLab10.7.dll
+C:\Users\lrgcr\OneDrive\Документы\Git repos\VVP_Labs\VVPLab10.7\bin\Debug\net5.0\VVPLab10.7.pdb
+C:\Users\lrgcr\OneDrive\Документы\Git repos\VVP_Labs\VVPLab10.7\obj\Debug\net5.0\VVPLab10.7.csproj.AssemblyReference.cache
+C:\Users\lrgcr\OneDrive\Документы\Git repos\VVP_Labs\VVPLab10.7\obj\Debug\net5.0\VVPLab10.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lrgcr\OneDrive\Документы\Git repos\VVP_Labs\VVPLab10.7\obj\Debug\net5.0\VVPLab10.7.AssemblyInfoInputs.cache
+C:\Users\lrgcr\OneDrive\Документы\Git repos\VVP_Labs\VVPLab10.7\obj\Debug\net5.0\VVPLab10.7.AssemblyInfo.cs
+C:\Users\lrgcr\OneDrive\Документы\Git repos\VVP_Labs\VVPLab10.7\obj\Debug\net5.0\VVPLab10.7.csproj.CoreCompileInputs.cache
+C:\Users\lrgcr\OneDrive\Документы\Git repos\VVP_Labs\VVPLab10.7\obj\Debug\net5.0\VVPLab10.7.dll
+C:\Users\lrgcr\OneDrive\Документы\Git repos\VVP_Labs\VVPLab10.7\obj\Debug\net5.0\ref\VVPLab10.7.dll
+C:\Users\lrgcr\OneDrive\Документы\Git repos\VVP_Labs\VVPLab10.7\obj\Debug\net5.0\VVPLab10.7.pdb
+C:\Users\lrgcr\OneDrive\Документы\Git repos\VVP_Labs\VVPLab10.7\obj\Debug\net5.0\VVPLab10.7.genruntimeconfig.cache
